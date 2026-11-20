@@ -7,7 +7,7 @@
 # autograders were created by John DeNero and Dan Klein. Student-side autograding
 # was added by Brad Miller, Nick Hay, and Pieter Abbeel.
 
-"""Monte Carlo tree search guided by fixed attack and defense weights."""
+#Monte Carlo tree search guided by fixed attack and defense weights.
 
 import math
 import random
